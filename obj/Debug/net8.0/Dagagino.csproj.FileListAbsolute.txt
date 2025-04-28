@@ -122,3 +122,4 @@ D:\Dotnet\Dagagino\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 D:\Dotnet\Dagagino\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Dotnet\Dagagino\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\Dotnet\Dagagino\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dotnet\Dagagino\obj\Debug\net8.0\Dagagino.sourcelink.json
